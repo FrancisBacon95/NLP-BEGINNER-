@@ -1,6 +1,7 @@
 # NLP-BEGINNER-
 
 ### 참고 사이트
+
 [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
 
 [ratsgo's blog](https://ratsgo.github.io/blog/categories/)
@@ -10,6 +11,9 @@
 [코퍼스](https://github.com/kakao/khaiii/wiki/%EC%BD%94%ED%8D%BC%EC%8A%A4)
 
 [corazzon 깃허브](https://github.com/corazzon/KaggleStruggle/blob/master/word2vec-nlp-tutorial/tutorial-part-1.ipynb)
+
+[스탠포드 NLP 인강](https://www.youtube.com/watch?v=8rXD5-xhemo&t=21s)
+
 
 ### 참고 사이트2
 
